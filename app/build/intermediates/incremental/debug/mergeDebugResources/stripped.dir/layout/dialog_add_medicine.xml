@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Medicine Name *"
+            style="@style/Widget.ArogyaSahaya.InputLayout"
+            android:layout_marginBottom="12dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/et_medicine_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:inputType="textCapWords"/>
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Dosage (e.g., 1 tablet, 5ml)"
+            style="@style/Widget.ArogyaSahaya.InputLayout"
+            android:layout_marginBottom="16dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/et_dosage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"/>
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Remind me at:"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/text_primary"
+            android:layout_marginBottom="12dp"/>
+
+        <CheckBox
+            android:id="@+id/cb_morning"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="☀  Morning (8:00 AM)"
+            android:textSize="18sp"
+            android:textColor="@color/text_primary"
+            android:buttonTint="@color/primary"
+            android:layout_marginBottom="8dp"/>
+
+        <CheckBox
+            android:id="@+id/cb_afternoon"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🌤  Afternoon (2:00 PM)"
+            android:textSize="18sp"
+            android:textColor="@color/text_primary"
+            android:buttonTint="@color/primary"
+            android:layout_marginBottom="8dp"/>
+
+        <CheckBox
+            android:id="@+id/cb_night"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🌙  Night (9:00 PM)"
+            android:textSize="18sp"
+            android:textColor="@color/text_primary"
+            android:buttonTint="@color/primary"
+            android:layout_marginBottom="12dp"/>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Doctor's notes (optional)"
+            style="@style/Widget.ArogyaSahaya.InputLayout">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/et_notes"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:inputType="textMultiLine"
+                android:minLines="2"/>
+        </com.google.android.material.textfield.TextInputLayout>
+
+    </LinearLayout>
+</ScrollView>

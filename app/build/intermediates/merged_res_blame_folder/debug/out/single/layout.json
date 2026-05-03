@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.arogyasahaya.app-mergeDebugResources-49:/layout/fragment_profile.xml",
+        "source": "com.arogyasahaya.app-main-52:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.arogyasahaya.app-mergeDebugResources-49:/layout/dialog_add_medicine.xml",
+        "source": "com.arogyasahaya.app-main-52:/layout/dialog_add_medicine.xml"
+    },
+    {
+        "merged": "com.arogyasahaya.app-mergeDebugResources-49:/layout/activity_main.xml",
+        "source": "com.arogyasahaya.app-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.arogyasahaya.app-mergeDebugResources-49:/layout/fragment_medication.xml",
+        "source": "com.arogyasahaya.app-main-52:/layout/fragment_medication.xml"
+    },
+    {
+        "merged": "com.arogyasahaya.app-mergeDebugResources-49:/layout/fragment_vitals.xml",
+        "source": "com.arogyasahaya.app-main-52:/layout/fragment_vitals.xml"
+    },
+    {
+        "merged": "com.arogyasahaya.app-mergeDebugResources-49:/layout/item_vital_log.xml",
+        "source": "com.arogyasahaya.app-main-52:/layout/item_vital_log.xml"
+    },
+    {
+        "merged": "com.arogyasahaya.app-mergeDebugResources-49:/layout/dialog_add_vital.xml",
+        "source": "com.arogyasahaya.app-main-52:/layout/dialog_add_vital.xml"
+    },
+    {
+        "merged": "com.arogyasahaya.app-mergeDebugResources-49:/layout/item_medication.xml",
+        "source": "com.arogyasahaya.app-main-52:/layout/item_medication.xml"
+    },
+    {
+        "merged": "com.arogyasahaya.app-mergeDebugResources-49:/layout/fragment_emergency.xml",
+        "source": "com.arogyasahaya.app-main-52:/layout/fragment_emergency.xml"
+    },
+    {
+        "merged": "com.arogyasahaya.app-mergeDebugResources-49:/layout/fragment_asha.xml",
+        "source": "com.arogyasahaya.app-main-52:/layout/fragment_asha.xml"
+    },
+    {
+        "merged": "com.arogyasahaya.app-mergeDebugResources-49:/layout/activity_splash.xml",
+        "source": "com.arogyasahaya.app-main-52:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.arogyasahaya.app-mergeDebugResources-49:/layout/fragment_dashboard.xml",
+        "source": "com.arogyasahaya.app-main-52:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.arogyasahaya.app-mergeDebugResources-49:/layout/item_asha_event.xml",
+        "source": "com.arogyasahaya.app-main-52:/layout/item_asha_event.xml"
+    }
+]

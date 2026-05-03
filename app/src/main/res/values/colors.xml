@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors - High contrast for elderly accessibility -->
+    <color name="primary">#1A6B3C</color>
+    <color name="primary_dark">#0F4526</color>
+    <color name="primary_light">#2E9B5A</color>
+    <color name="accent">#FF6B35</color>
+    <color name="accent_dark">#E55A25</color>
+
+    <!-- Emergency Red -->
+    <color name="emergency_red">#D32F2F</color>
+    <color name="emergency_red_dark">#B71C1C</color>
+    <color name="emergency_light">#FFEBEE</color>
+
+    <!-- Background Colors -->
+    <color name="background">#F5F9F6</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#E8F5ED</color>
+
+    <!-- Text Colors - High contrast -->
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#4A4A4A</color>
+    <color name="text_hint">#888888</color>
+    <color name="text_on_primary">#FFFFFF</color>
+
+    <!-- Status Colors -->
+    <color name="morning_color">#FF9800</color>
+    <color name="afternoon_color">#2196F3</color>
+    <color name="night_color">#3F51B5</color>
+
+    <!-- Chart Colors -->
+    <color name="chart_bp_systolic">#F44336</color>
+    <color name="chart_bp_diastolic">#2196F3</color>
+    <color name="chart_heart_rate">#4CAF50</color>
+    <color name="chart_glucose">#FF9800</color>
+
+    <!-- Card Colors -->
+    <color name="card_medication">#E8F5E9</color>
+    <color name="card_vitals">#E3F2FD</color>
+    <color name="card_asha">#FFF8E1</color>
+    <color name="card_emergency">#FFEBEE</color>
+
+    <!-- Divider -->
+    <color name="divider">#E0E0E0</color>
+
+    <!-- White / Black -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

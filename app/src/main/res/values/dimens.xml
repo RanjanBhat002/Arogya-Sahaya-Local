@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_xlarge">32dp</dimen>
+
+    <dimen name="card_radius">16dp</dimen>
+    <dimen name="button_radius">12dp</dimen>
+    <dimen name="input_radius">8dp</dimen>
+
+    <dimen name="text_tiny">14sp</dimen>
+    <dimen name="text_small">16sp</dimen>
+    <dimen name="text_medium">18sp</dimen>
+    <dimen name="text_large">22sp</dimen>
+    <dimen name="text_xlarge">28sp</dimen>
+    <dimen name="text_xxlarge">36sp</dimen>
+
+    <dimen name="sos_button_size">200dp</dimen>
+    <dimen name="bottom_nav_height">70dp</dimen>
+    <dimen name="fab_size">64dp</dimen>
+</resources>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="blood_groups">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>Unknown</item>
+    </string-array>
+    <string-array name="gender_options">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+        <item>Prefer not to say</item>
+    </string-array>
+    <color name="accent">#FF6B35</color>
+    <color name="accent_dark">#E55A25</color>
+    <color name="afternoon_color">#2196F3</color>
+    <color name="background">#F5F9F6</color>
+    <color name="black">#000000</color>
+    <color name="card_asha">#FFF8E1</color>
+    <color name="card_emergency">#FFEBEE</color>
+    <color name="card_medication">#E8F5E9</color>
+    <color name="card_vitals">#E3F2FD</color>
+    <color name="chart_bp_diastolic">#2196F3</color>
+    <color name="chart_bp_systolic">#F44336</color>
+    <color name="chart_glucose">#FF9800</color>
+    <color name="chart_heart_rate">#4CAF50</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="emergency_light">#FFEBEE</color>
+    <color name="emergency_red">#D32F2F</color>
+    <color name="emergency_red_dark">#B71C1C</color>
+    <color name="morning_color">#FF9800</color>
+    <color name="night_color">#3F51B5</color>
+    <color name="primary">#1A6B3C</color>
+    <color name="primary_dark">#0F4526</color>
+    <color name="primary_light">#2E9B5A</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#E8F5ED</color>
+    <color name="text_hint">#888888</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#4A4A4A</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="bottom_nav_height">70dp</dimen>
+    <dimen name="button_radius">12dp</dimen>
+    <dimen name="card_radius">16dp</dimen>
+    <dimen name="fab_size">64dp</dimen>
+    <dimen name="input_radius">8dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_xlarge">32dp</dimen>
+    <dimen name="sos_button_size">200dp</dimen>
+    <dimen name="text_large">22sp</dimen>
+    <dimen name="text_medium">18sp</dimen>
+    <dimen name="text_small">16sp</dimen>
+    <dimen name="text_tiny">14sp</dimen>
+    <dimen name="text_xlarge">28sp</dimen>
+    <dimen name="text_xxlarge">36sp</dimen>
+    <string name="add_medicine">Add Medicine</string>
+    <string name="add_vitals">Record Today\'s Vitals</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="age">Age</string>
+    <string name="alert_sent">Emergency alert sent!</string>
+    <string name="allergies">Known Allergies</string>
+    <string name="app_name">Arogya-Sahaya</string>
+    <string name="app_tagline">Your Digital Health Companion</string>
+    <string name="asha_connect">ASHA Connect</string>
+    <string name="asha_worker">Your ASHA Worker</string>
+    <string name="blood_group">Blood Group</string>
+    <string name="blood_pressure">Blood Pressure</string>
+    <string name="bp_diastolic">Diastolic (lower)</string>
+    <string name="bp_systolic">Systolic (upper)</string>
+    <string name="calling_emergency">Calling Emergency Contact...</string>
+    <string name="camp_name">Health Camp</string>
+    <string name="cancel">Cancel</string>
+    <string name="chronic_conditions">Chronic Conditions</string>
+    <string name="delete">Delete</string>
+    <string name="dosage">Dosage (e.g., 1 tablet)</string>
+    <string name="edit">Edit</string>
+    <string name="emergency_contact">Emergency Contact</string>
+    <string name="emergency_contact_name">Emergency Contact Name</string>
+    <string name="emergency_contact_phone">Emergency Contact Phone</string>
+    <string name="gender">Gender</string>
+    <string name="glucose_level">Glucose Level (mg/dL)</string>
+    <string name="good_afternoon">Good Afternoon</string>
+    <string name="good_evening">Good Evening</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="health_camps">Upcoming Health Camps</string>
+    <string name="heart_rate">Heart Rate (BPM)</string>
+    <string name="last_vitals">Last Recorded Vitals</string>
+    <string name="loading">Loading...</string>
+    <string name="location">Location</string>
+    <string name="mark_missed">Missed</string>
+    <string name="mark_taken">Mark as Taken</string>
+    <string name="medical_profile">Medical Profile</string>
+    <string name="medicine_deleted">Medicine deleted</string>
+    <string name="medicine_name">Medicine Name</string>
+    <string name="medicine_saved">Medicine reminder saved!</string>
+    <string name="morning">Morning</string>
+    <string name="name">Full Name</string>
+    <string name="nav_asha">ASHA Connect</string>
+    <string name="nav_dashboard">Home</string>
+    <string name="nav_medication">Medicines</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_vitals">Vitals</string>
+    <string name="next_checkup">Next Health Camp</string>
+    <string name="next_visit">Next Visit</string>
+    <string name="night">Night</string>
+    <string name="no">No</string>
+    <string name="no_data">No data available</string>
+    <string name="no_medicines_today">No medicines scheduled today</string>
+    <string name="no_vitals_recorded">No vitals recorded yet. Start tracking today!</string>
+    <string name="notification_channel_medication">Medication Reminders</string>
+    <string name="notification_channel_vitals">Vitals Reminder</string>
+    <string name="notification_desc_medication">It\'s time to take your medicine: %1$s</string>
+    <string name="notification_title_medication">Medicine Time!</string>
+    <string name="ok">OK</string>
+    <string name="profile_saved">Profile saved successfully!</string>
+    <string name="register_camp">Register Interest</string>
+    <string name="required_field">This field is required</string>
+    <string name="save">Save</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="seven_day_trend">7-Day Trend</string>
+    <string name="sos_button">SOS\nEMERGENCY</string>
+    <string name="sos_cancel">Cancel</string>
+    <string name="sos_confirm_message">This will call your emergency contact and send your location.</string>
+    <string name="sos_confirm_title">Send Emergency Alert?</string>
+    <string name="sos_yes">YES, CALL NOW</string>
+    <string name="taken">✓ Taken</string>
+    <string name="time_afternoon">2:00 PM</string>
+    <string name="time_morning">8:00 AM</string>
+    <string name="time_night">9:00 PM</string>
+    <string name="today">Today</string>
+    <string name="todays_medicines">Today\'s Medicines</string>
+    <string name="vitals_saved">Vitals recorded successfully!</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="yes">Yes</string>
+    <string name="yesterday">Yesterday</string>
+    <style name="TextAppearance.ArogyaSahaya" parent="TextAppearance.MaterialComponents.Body1"/>
+    <style name="TextAppearance.ArogyaSahaya.Body" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+    <style name="TextAppearance.ArogyaSahaya.Caption" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+    <style name="TextAppearance.ArogyaSahaya.SectionHeader">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/primary</item>
+        <item name="android:letterSpacing">0.02</item>
+    </style>
+    <style name="TextAppearance.ArogyaSahaya.Subtitle" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+    <style name="TextAppearance.ArogyaSahaya.Title" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="android:textSize">26sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+    <style name="Theme.ArogyaSahaya" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:navigationBarColor">@color/primary_dark</item>
+    </style>
+    <style name="Theme.ArogyaSahaya.Splash" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:windowBackground">@color/primary</item>
+    </style>
+    <style name="Widget.ArogyaSahaya.Button" parent="Widget.MaterialComponents.Button">
+        <item name="android:textSize">18sp</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:paddingBottom">14dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="backgroundTint">@color/primary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="cornerRadius">12dp</item>
+    </style>
+    <style name="Widget.ArogyaSahaya.Button.Emergency" parent="Widget.MaterialComponents.Button">
+        <item name="android:textSize">26sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="backgroundTint">@color/emergency_red</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="cornerRadius">100dp</item>
+    </style>
+    <style name="Widget.ArogyaSahaya.Card" parent="Widget.MaterialComponents.CardView">
+        <item name="cardElevation">4dp</item>
+        <item name="cardCornerRadius">16dp</item>
+        <item name="contentPadding">16dp</item>
+        <item name="cardBackgroundColor">@color/surface</item>
+    </style>
+    <style name="Widget.ArogyaSahaya.InputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/primary</item>
+        <item name="hintTextColor">@color/primary</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+</resources>
